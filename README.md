@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... sleep
 - 📫 How to reach me ... here
 - 😄 Pronouns: ... Dude
-- ⚡ Fun fact: ... !WTB hcrA esu I
+- ⚡ Fun fact: ... Linux is the best.
 
 <!---
 Linuxknows/Linuxknows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
